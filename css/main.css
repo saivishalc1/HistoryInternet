@@ -37,6 +37,17 @@ html {
   text-shadow: none;
 }
 
+.wrapper .content{
+  width: 100%;
+  margin-left: 200px;
+
+}
+
+.wrapper .content .header{
+  padding: 20px;
+  background: #b3d4fc;
+}
+
 /*
  * A better looking default horizontal rule
  */
